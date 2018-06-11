@@ -1,0 +1,17 @@
+contextlib2==0.5.4
+crontab==0.21.3
+<<<<<<< HEAD
+MySQL-python==1.2.5
+PyYAML==3.12
+raven==5.32.0
+requests==2.12.4
+=======
+dnspython==1.15.0
+meld3==1.0.2
+MySQL-python==1.2.5
+python-etcd==0.4.3
+raven==5.32.0
+schedule==0.4.2
+supervisor==3.3.1
+urllib3==1.19.1
+>>>>>>> f7125a52fe58ea21ac984b36ea030145523768b5
